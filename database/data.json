@@ -1,0 +1,380 @@
+{
+  "products": [
+    {
+      "id": "fd05",
+      "product_img": "https://i.ibb.co/pwS03m7/laptom.jpg",
+      "product_name": "Lenovo IdeaPad Gaming 3 15ACH6 Ryzen 5 5500H RTX 2050 4GB Graphics 15.6\" FHD Laptop",
+      "price": "1000",
+      "total_product": "50",
+      "description": "Key Features\n\n    MPN: 82K202BFIN\n    Model: IdeaPad Gaming 3 15ACH6\n    Processor: AMD Ryzen 5 5500H (4C / 8T, 3.3 / 4.2GHz, 2MB L2 / 8MB L3)\n    RAM: 8GB DDR4, Storage: 512GB NVMe SSD\n    Graphics: NVIDIA GeForce RTX 2050 4GB GDDR6\n    Features: Backlit Keyboard, USB Type-C\n\n\nLenovo IdeaPad Gaming 3 15ACH6 Ryzen 5 5500H RTX 2050 4GB Graphics 15.6\" FHD Laptop\n\nThe Lenovo IdeaPad Gaming 3 15ACH6 is a powerful and efficient laptop designed for gamers and power users. With its sleek design and robust hardware, it provides an immersive gaming experience and smooth performance for various computing tasks. It features a 15.6-inch Full HD display, offering crisp and vibrant visuals that enhance gameplay and media consumption. At its core, the laptop is powered by an AMD Ryzen 5 5500H processor, boasting 6 cores and 12 threads, with a base clock speed of 3.3 GHz and a max boost clock speed of 4.2 GHz. This is complemented by 8GB of DDR4 RAM, ensuring smooth multitasking capabilities, and a 512GB NVMe SSD, which provides fast storage and quick access to your files and applications. The NVIDIA GeForce RTX 2050 enhances graphics performance with its 4GB of GDDR6 dedicated memory, enabling fluid gaming and high-resolution contemporary gameplay. A backlit keyboard, which is ideal for low light and improving the gaming ambiance, and a USB Type-C connection, which offers quicker data transmission and a variety of connecting possibilities, are two more elements that improve the user experience overall. The Lenovo IdeaPad Gaming 3 15ACH6 is a flexible and dependable option for both gaming and daily usage since it blends contemporary components with a smart design.",
+      "category": [
+        "Laptops"
+      ],
+      "subcategory": [
+        "Business",
+        "Consumer",
+        "Premium Ultrabooks",
+        "Gaming"
+      ],
+      "sale": 0
+    },
+    {
+      "id": "2da5",
+      "product_img": "https://i.ibb.co/fpm9sCy/watch.webp",
+      "product_name": "Yison Celebrat SW2Pro Bluetooth Calling Smart Watch",
+      "price": "59",
+      "total_product": "70",
+      "description": "",
+      "category": [
+        "Smart Devices"
+      ],
+      "subcategory": [
+        "Smartwatches"
+      ],
+      "sale": 0
+    },
+    {
+      "id": "a0e7",
+      "product_img": "https://i.ibb.co/vQ1Gff5/keyboard.webp",
+      "product_name": "keyboard",
+      "price": "40",
+      "total_product": "20",
+      "description": "",
+      "category": [
+        "Desktop PCs",
+        "Gaming Accessories"
+      ],
+      "subcategory": [
+        "Keyboards",
+        "Gaming Desktops"
+      ],
+      "sale": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "Laptops",
+      "subcategories": [
+        {
+          "id": 1,
+          "name": "Consumer"
+        },
+        {
+          "id": 2,
+          "name": "Business"
+        },
+        {
+          "id": 3,
+          "name": "Gaming"
+        },
+        {
+          "id": 4,
+          "name": "Premium Ultrabooks"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Desktop PCs",
+      "subcategories": [
+        {
+          "id": 5,
+          "name": "Gaming Desktops"
+        },
+        {
+          "id": 6,
+          "name": "Office Desktops"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Processors",
+      "subcategories": [
+        {
+          "id": 7,
+          "name": "Intel"
+        },
+        {
+          "id": 8,
+          "name": "AMD"
+        },
+        {
+          "id": 9,
+          "name": "Snapdragon"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Graphics Cards",
+      "subcategories": [
+        {
+          "id": 10,
+          "name": "NVIDIA"
+        },
+        {
+          "id": 11,
+          "name": "AMD"
+        },
+        {
+          "id": 12,
+          "name": "Integrated"
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "name": "Monitors",
+      "subcategories": [
+        {
+          "id": 13,
+          "name": "4K"
+        },
+        {
+          "id": 14,
+          "name": "Curved"
+        },
+        {
+          "id": 15,
+          "name": "Gaming"
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "name": "Networking",
+      "subcategories": [
+        {
+          "id": 16,
+          "name": "Routers"
+        },
+        {
+          "id": 17,
+          "name": "Switches"
+        },
+        {
+          "id": 18,
+          "name": "Modems"
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "name": "Storage",
+      "subcategories": [
+        {
+          "id": 19,
+          "name": "SSDs"
+        },
+        {
+          "id": 20,
+          "name": "HDDs"
+        },
+        {
+          "id": 21,
+          "name": "NAS"
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "name": "Memory (RAM)",
+      "subcategories": [
+        {
+          "id": 22,
+          "name": "DDR4"
+        },
+        {
+          "id": 23,
+          "name": "DDR5"
+        }
+      ]
+    },
+    {
+      "id": "9",
+      "name": "Cameras",
+      "subcategories": [
+        {
+          "id": 24,
+          "name": "DSLRs"
+        },
+        {
+          "id": 25,
+          "name": "Action Cameras"
+        },
+        {
+          "id": 26,
+          "name": "IP Cameras"
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "name": "Printers",
+      "subcategories": [
+        {
+          "id": 27,
+          "name": "Inkjet"
+        },
+        {
+          "id": 28,
+          "name": "Laser"
+        },
+        {
+          "id": 29,
+          "name": "All-in-One"
+        }
+      ]
+    },
+    {
+      "id": "11",
+      "name": "Smart Devices",
+      "subcategories": [
+        {
+          "id": 30,
+          "name": "Smartwatches"
+        },
+        {
+          "id": 31,
+          "name": "Smart Home Devices"
+        }
+      ]
+    },
+    {
+      "id": "12",
+      "name": "Gaming Accessories",
+      "subcategories": [
+        {
+          "id": 32,
+          "name": "Mice"
+        },
+        {
+          "id": 33,
+          "name": "Keyboards"
+        },
+        {
+          "id": 34,
+          "name": "Chairs"
+        }
+      ]
+    },
+    {
+      "id": "13",
+      "name": "UPS & Power Solutions",
+      "subcategories": [
+        {
+          "id": 35,
+          "name": "UPS"
+        },
+        {
+          "id": 36,
+          "name": "Voltage Stabilizers"
+        }
+      ]
+    },
+    {
+      "id": "14",
+      "name": "Projectors",
+      "subcategories": [
+        {
+          "id": 37,
+          "name": "Home Theater"
+        },
+        {
+          "id": 38,
+          "name": "Portable Projectors"
+        }
+      ]
+    },
+    {
+      "id": "15",
+      "name": "Software",
+      "subcategories": [
+        {
+          "id": 39,
+          "name": "Operating Systems"
+        },
+        {
+          "id": 40,
+          "name": "Security Software"
+        }
+      ]
+    },
+    {
+      "id": "16",
+      "name": "Peripherals",
+      "subcategories": [
+        {
+          "id": 41,
+          "name": "Keyboards"
+        },
+        {
+          "id": 42,
+          "name": "Mice"
+        },
+        {
+          "id": 43,
+          "name": "Webcams"
+        }
+      ]
+    },
+    {
+      "id": "17",
+      "name": "Audio Devices",
+      "subcategories": [
+        {
+          "id": 44,
+          "name": "Headphones"
+        },
+        {
+          "id": 45,
+          "name": "Speakers"
+        }
+      ]
+    },
+    {
+      "id": "18",
+      "name": "Mobile Phones",
+      "subcategories": [
+        {
+          "id": 46,
+          "name": "Android"
+        },
+        {
+          "id": 47,
+          "name": "iOS"
+        }
+      ]
+    },
+    {
+      "id": "19",
+      "name": "Components",
+      "subcategories": [
+        {
+          "id": 48,
+          "name": "Motherboards"
+        },
+        {
+          "id": 49,
+          "name": "Cooling Solutions"
+        }
+      ]
+    },
+    {
+      "id": "20",
+      "name": "Server Solutions",
+      "subcategories": [
+        {
+          "id": 50,
+          "name": "Servers"
+        },
+        {
+          "id": 51,
+          "name": "Server Accessories"
+        }
+      ]
+    }
+  ]
+}
